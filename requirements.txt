@@ -46,7 +46,7 @@ pre-commit==2.18.1
 pycparser==2.21
 pyenchant==3.2.2
 pygments==2.11.2
-pyparsing==3.0.7
+pyparsing==3.0.8
 pytz==2022.1
 pyyaml==6.0
 requests==2.27.1
